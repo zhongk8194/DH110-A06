@@ -20,7 +20,10 @@ My interactive prototype supports the following tasks:
 <br><br>
 
 ## Designs
+User Interface <br>
 <img src="UI.png" width=80%>
+<br><br>
+Color Variations <br>
 <img src="iterations.png" width=80%>
 <br><br>
 
