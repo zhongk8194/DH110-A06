@@ -20,8 +20,8 @@ My interactive prototype supports the following tasks:
 <br><br>
 
 ## Designs
-<img src="UI.jpg" width=80%>
-<img src="iterations.jpg" width=80%>
+<img src="UI.png" width=80%>
+<img src="iterations.png" width=80%>
 <br><br>
 
 ## Tests
