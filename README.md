@@ -28,8 +28,8 @@ Color Variations <br>
 <br><br>
 
 ## Tests
-Impression test 
-Accessibliity (color-contrast) check
+Impression test <br>
+Accessibliity (color-contrast) check <br>
 <img src="Check1.png" width=50%>
 <img src="Check2.png" width=50%>
 <img src="Check3.png" width=50%>
