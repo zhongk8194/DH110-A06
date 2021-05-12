@@ -21,15 +21,19 @@ My interactive prototype supports the following tasks:
 
 ## Designs
 User Interface <br>
-<img src="UI.png" width=80%>
+<img src="UI.png">
 <br><br>
 Color Variations <br>
-<img src="iterations.png" width=80%>
+<img src="Iterations.png">
 <br><br>
 
 ## Tests
 Impression test 
 Accessibliity (color-contrast) check
+<img src="Check1.png">
+<img src="Check2.png">
+<img src="Check3.png">
+<img src="Check4.png">
 <br><br>
 
 ## Design System
