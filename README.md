@@ -3,9 +3,10 @@ Kelly Zhong, DH 110
 <br><br>
 
 ## Overview
-**Project Description**
+**Project Description** <br>
 Lorem ipsum
-**Purpose and Process**
+<br>
+**Purpose and Process**<br>
 <br><br>
 
 ## Tasks
