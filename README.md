@@ -20,10 +20,10 @@ My interactive prototype supports the following tasks:
 <br><br>
 
 ## Screen Designs
-User Interface <br>
+**User Interface** <br>
 <img src="UI.png">
 <br><br><br>
-Color Variations (for screen #4 labeled "Desktop-4")<br>
+**Color Variations** (for screen #4 labeled "Desktop-4")<br>
 <em>The color variations below are as follows: Variation 1- light mode, Variation 2- dark mode on the added feature (the "World" and "US" news sections), Variation 3- hue variation, and Variation 4- dark mode on the whole screen.</em> <br><br>
 <img src="Variations.png">
 <br><br>
