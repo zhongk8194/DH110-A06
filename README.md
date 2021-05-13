@@ -22,18 +22,19 @@ My interactive prototype supports the following tasks:
 ## Screen Designs
 User Interface <br>
 <img src="UI.png">
-<br><br>
+<br><br><br>
 Color Variations (for screen #4 labeled "Desktop-4")<br>
-<em>The color variations below are as follows: Variation 1- light mode, Variation 2- dark mode on the added feature (the "World" and "US" news sections), Variation 3- hue variation, and Variation 4- dark mode on the whole screen.
+<em>The color variations below are as follows: Variation 1- light mode, Variation 2- dark mode on the added feature (the "World" and "US" news sections), Variation 3- hue variation, and Variation 4- dark mode on the whole screen.</em> <br><br>
 <img src="Variations.png">
 <br><br>
 
 ## Tests
 **Impression test** <br>
-Comments from classmates:
+Comments from classmates: <br>
 <img src="Comments.png">
 
-Summary of findings: 
+Summary of findings: <br>
+The impression test with my classmates today went well! They were really kind with their comments. The main findings that I took from this activity was that (1) the organization of the content fits within the existing CNN design system, and that (2) I could look into expanding the "Customize" feature and adding more filter options (like dates). Overall, the impression test was a great experience! <br><br>
 
 **Accessibliity (color-contrast) check** <br>
 <img src="Check1.png" width=50%;><img src="Check2.png" width=50%;>
@@ -41,6 +42,5 @@ Summary of findings:
 <br><br>
 
 ## Design System
-- summary of graphic design 
-- how you made decisions 
--   Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast
+<img src="Design System.png">
+For the color scheme, I decided to stick with CNN's existing brand colors of red, black, and gray. Though I tried out a green variation (I tried green because it is opposite of red on the color wheel), I thought that it looked out of place and didn't fit the vibe of the brand. After eye-dropping the colors on the existing CNN website, I noticed that they actually use two different shades of red — one darker, for their logo and other design elements (like the red circle next to the "LIVE TV" and the background box on the "LIVE UPDATES" label on the first picture), and one brighter, for text. I checked the color contrast for each color. As for the feature I designed, I did so while taking into consideration existing design rules on the website. For example, I made sure the drop shadow and the cornor radius on the dropdown that I designed matched the existing one on the website. 
