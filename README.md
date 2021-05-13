@@ -4,7 +4,7 @@ Kelly Zhong, DH 110
 
 ## Overview
 **Project Description** <br>
-The goal of my project is to redesign the CNN.com website to help users more easily consume news. Specifically, like many news websites, CNN.com is hard to navigate because of the overwhelming amount of content and the lack of clear organization and layout design of that content. With my project, I hope to add features that will improve the website's organization and help users to find desired content.
+My project is a redesign of the CNN.com website through the addition of features to help users more easily consume news. Specifically, like many news websites, CNN.com is hard to navigate because of the overwhelming amount of content. With this prototype, I will add a "Customize" feature that will give users the ability to filter the homepage to see topics that they are interested in. By doing so, the website's organization will improve and users will be able to personalize their news feed to find desired content.
 <br><br>
 
 **Purpose and Process**<br>
