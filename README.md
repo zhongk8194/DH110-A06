@@ -19,23 +19,28 @@ My interactive prototype supports the following tasks:
 4. Viewing the new screen with customized settings.
 <br><br>
 
-## Designs
+## Screen Designs
 User Interface <br>
 <img src="UI.png">
 <br><br>
-Color Variations <br>
-<img src="Iterations.png">
+Color Variations (for screen #4 labeled "Desktop-4")<br>
+<em>The color variations below are as follows: Variation 1- light mode, Variation 2- dark mode on the added feature (the "World" and "US" news sections), Variation 3- hue variation, and Variation 4- dark mode on the whole screen.
+<img src="Variations.png">
 <br><br>
 
 ## Tests
-Impression test <br>
-Accessibliity (color-contrast) check <br>
-<img src="Check1.png" width=50%>
-<img src="Check2.png" width=50%>
-<img src="Check3.png" width=50%>
-<img src="Check4.png" width=50%>
+**Impression test** <br>
+Comments from classmates:
+<img src="Comments.png">
+
+Summary of findings: 
+
+**Accessibliity (color-contrast) check** <br>
+<img src="Check1.png" width=50%;><img src="Check2.png" width=50%;>
+<img src="Check3.png" width=50%;><img src="Check4.png" width=50%;>
 <br><br>
 
 ## Design System
 - summary of graphic design 
 - how you made decisions 
+-   Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast
