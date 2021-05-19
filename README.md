@@ -50,7 +50,10 @@ For the color scheme, I decided to stick with CNN's existing brand colors of red
 Here is the <a href="https://www.figma.com/file/p1gaHYkho81C894hVpk6tl/DH-110?node-id=29%3A2">link</a> to the prototype. There are two features that I designed and prototyped, and the prototype starts at the first feature. To view the prototype of the second feature, click anywhere on the last screen of the first feature or click on the profile icon at any point.
 
 Here are two gifs that demonstrate each prototype:
+**Feature 1: Customize Feed** <br>
 <img src="feature1.gif" width=90%;>
+<br>
+**Feature 2: Accessible Newsfeed** <br>
 <img src="feature2.gif" width=90%;>
 
 ## Wireflow (Diagram)
