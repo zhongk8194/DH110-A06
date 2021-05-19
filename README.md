@@ -45,3 +45,25 @@ The impression test with my classmates today went well! They were really kind wi
 <img src="Design System.png" width=80%;>
 Description: <br>
 For the color scheme, I decided to stick with CNN's existing brand colors of red, black, and gray. Though I tried out a green variation (I tried green because it is opposite of red on the color wheel), I thought that it looked out of place and didn't fit the vibe of the brand. After eye-dropping the colors on the existing CNN website, I noticed that they actually use two different shades of red — one darker, for their logo and other design elements (like the red circle next to the "LIVE TV" and the background box on the "LIVE UPDATES" label on the first picture), and one brighter, for text. I checked the color contrast for each color. As for the feature I designed, I did so while taking into consideration existing design rules on the website. For example, I made sure the drop shadow and the cornor radius on the dropdown that I designed matched the existing one on the website. 
+
+## Interactive Prototype
+Here is the <a href="https://www.figma.com/file/p1gaHYkho81C894hVpk6tl/DH-110?node-id=29%3A2">link</a> to the prototype. There are two features that I designed and prototyped, and the prototype starts at the first feature. To view the prototype of the second feature, click anywhere on the last screen of the first feature or click on the profile icon at any point.
+
+Here are two gifs that demonstrate each prototype:
+
+
+## Wireflow (Diagram)
+<img src="wf1.png" width=50%;><img src="Check2.png" width=50%;>
+<img src="wf2.png" width=50%;><img src="Check4.png" width=50%;>
+<br><br>
+
+## Cognitive Walkthrough
+Will perform during class today.
+
+## Reflection
+
+_(Reflection on creating the prototype)_
+To create the prototype, I put myself in the shoes of the users and considered the steps that they would take when completing the tasks. This also helped me to prevent dead ends or any confusing interactions. The process of creating the prototype was smooth, but tedious in that I had to manually recreate all of the article titles and subtitles, as well as other design elements in order to customize the screens for the user.
+
+_(Reflection on Cognitive Walkthrough)_
+Will complete after class today.
