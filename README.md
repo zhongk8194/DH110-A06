@@ -45,11 +45,12 @@ The impression test with my classmates today went well! They were really kind wi
 <img src="Design System.png" width=80%;>
 Description: <br>
 For the color scheme, I decided to stick with CNN's existing brand colors of red, black, and gray. Though I tried out a green variation (I tried green because it is opposite of red on the color wheel), I thought that it looked out of place and didn't fit the vibe of the brand. After eye-dropping the colors on the existing CNN website, I noticed that they actually use two different shades of red — one darker, for their logo and other design elements (like the red circle next to the "LIVE TV" and the background box on the "LIVE UPDATES" label on the first picture), and one brighter, for text. I checked the color contrast for each color. As for the feature I designed, I did so while taking into consideration existing design rules on the website. For example, I made sure the drop shadow and the cornor radius on the dropdown that I designed matched the existing one on the website. 
+<br><br>
 
 ## Interactive Prototype
 Here is the <a href="https://www.figma.com/file/p1gaHYkho81C894hVpk6tl/DH-110?node-id=29%3A2">link</a> to the prototype. There are two features that I designed and prototyped; the prototype starts at the first feature. To view the prototype of the second feature, click anywhere on the last screen of the first feature or click on the profile icon at any point.
 
-My interactive prototype supports the following tasks:
+My interactive prototype supports the following tasks: <br>
 **Feature 1:**
 1. Clicking the "Customize" button.
 2. Choosing desired settings.
@@ -62,7 +63,7 @@ My interactive prototype supports the following tasks:
 3. Toggling ON Accessibility Mode.
 4. Returning to the homepage through the CNN logo on the navigation bar.
 
-Here are two gifs that demonstrate each prototype: <br><br>
+Here are two gifs that demonstrate each prototype: <br>
 
 **Feature 1: Customize Feed** <br>
 <img src="feature1.gif" width=80%;>
@@ -70,11 +71,12 @@ Here are two gifs that demonstrate each prototype: <br><br>
 
 **Feature 2: Accessible Newsfeed** <br>
 <img src="feature2.gif" width=80%;>
+<br>
 
 ## Wireflow (Diagram)
 <img src="wf1.png" width=90%;>
 <img src="wf2.png" width=90%;>
-<br><br>
+<br>
 
 ## Cognitive Walkthrough
 Below are questions that I asked and the answers I received from my classmates. <br>
@@ -115,8 +117,8 @@ From HSIEH, JOY to Everyone: (4:09 PM) <br>
  ohhh yeah and hmm i think you could have accessibility mode on the account page and under the hamburger menu, but on the account page you set your default and hamburger menu is a quick toggle (helpful if multiple users sharing a device) <br><br>
 
 _Screenshots_ <br>
-<img src="screenshot1.png" width=90%;>
-<img src="screenshot2.png" width=90%;>
+<img src="screenshot1.png" width=60%;>
+<img src="screenshot2.png" width=60%;>
 
 _Findings Summary_ <br>
 From the cognitive walkthrough, I found that while my prototype's flow was intuitive, there are some changes that could be made to make it clearer. For example, the word "Customize" may not be the best word to describe what the feature offers. Furthermore, I learned that it could be helpful to incorporate the Accessibility Mode on the homescreen as well as in the Settings, in case a user wants to quickly toggle between Accessibility Mode ON and OFF.
