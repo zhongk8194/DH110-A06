@@ -71,7 +71,7 @@ Here are two gifs that demonstrate each prototype: <br>
 
 **Feature 2: Accessible Newsfeed** <br>
 <img src="feature2.gif" width=80%;>
-<br>
+<br><br>
 
 ## Wireflow (Diagram)
 <img src="wf1.png" width=90%;>
@@ -117,8 +117,8 @@ From HSIEH, JOY to Everyone: (4:09 PM) <br>
  ohhh yeah and hmm i think you could have accessibility mode on the account page and under the hamburger menu, but on the account page you set your default and hamburger menu is a quick toggle (helpful if multiple users sharing a device) <br><br>
 
 _Screenshots_ <br>
-<img src="screenshot1.png" width=60%;>
-<img src="screenshot2.png" width=60%;>
+<img src="screenshot1.png" width=40%;>
+<img src="screenshot2.png" width=40%;>
 
 _Findings Summary_ <br>
 From the cognitive walkthrough, I found that while my prototype's flow was intuitive, there are some changes that could be made to make it clearer. For example, the word "Customize" may not be the best word to describe what the feature offers. Furthermore, I learned that it could be helpful to incorporate the Accessibility Mode on the homescreen as well as in the Settings, in case a user wants to quickly toggle between Accessibility Mode ON and OFF.
